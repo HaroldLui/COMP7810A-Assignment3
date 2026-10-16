@@ -6,7 +6,7 @@
 - Student ID: 3036326931
 - Course: COMP7810A
 - Assignment: 3
-- Repository: https://github.com/hgwoops/rwa-lab-2026
+- Repository: https://github.com/HaroldLui/COMP7810A-Assignment3.git
 
 ## 2. Tests and submitted work
 
@@ -58,5 +58,3 @@ The deployment also sets up the roles and whitelist, because the vault and queue
 | MockTBillCustodian | `0x63d9f975c1b9d9a57ccc0c017baeb4eade61910e` | [Etherscan](https://sepolia.etherscan.io/address/0x63d9f975c1b9d9a57ccc0c017baeb4eade61910e#code) |
 | TBillVault | `0x88ff770a050b479f64ba8db74909196fc0f04066` | [Etherscan](https://sepolia.etherscan.io/address/0x88ff770a050b479f64ba8db74909196fc0f04066#code) |
 | RedemptionQueue | `0xce199a81ed679b1d95b7563051b1c640178c8113` | [Etherscan](https://sepolia.etherscan.io/address/0xce199a81ed679b1d95b7563051b1c640178c8113#code) |
-
-The private key stays in the local `.env` file, which is ignored by Git. Do not include `.env` in the submission ZIP.
